@@ -6,12 +6,10 @@ As a data scientist, one of my core roles is to uncover hidden stories in raw da
 🎯 Project Objectives
 
 🔍 Clean and prepare a real-world open-source dataset
-
 📈 Create a series of insightful and visually appealing plots
-
 🧠 Derive meaningful insights from the data and communicate them clearly
-
 📚 Structure the analysis as a complete data story using a Google Colab Notebook
+
 
 
 🧰 Tools & Technologies
