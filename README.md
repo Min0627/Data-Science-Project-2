@@ -5,6 +5,8 @@ Welcome to my data visualization and storytelling project, created as part of th
 
 As a data scientist, one of my core roles is to uncover hidden stories in raw data and transform them into actionable insights through compelling visualizations. This project reflects my skills and passion for turning complex data into easy-to-understand narratives that empower decision-making.
 
+📎Link for Google Collab and Datasets: https://drive.google.com/drive/folders/17T7JS04f4YXoSY3ita-I4mvMWIrwhiSh?usp=drive_link
+
 ---
 
 ## 🎯 Project Objectives
@@ -21,15 +23,6 @@ As a data scientist, one of my core roles is to uncover hidden stories in raw da
 - **Language**: Python  
 - **Environment**: Google Colab  
 - **Libraries**: Pandas, Matplotlib, Seaborn, NumPy
-
----
-
-## 📂 Dataset
-
-The dataset used in this project is sourced from [insert source, e.g., World Bank, Spotify, WHO, etc.].  
-It was selected because it aligns with my career interest in the **[insert industry]** field.
-
-📎 Dataset Link: [Insert dataset link]
 
 ---
 
@@ -59,13 +52,4 @@ Each visualization is paired with a clear, real-world insight and explanation.
 
 This notebook is **100% reproducible**. All code and instructions are provided for anyone to follow along and recreate the results.
 
----
-
-## 📬 Contact
-
-**Lecturer:** Dr. Bernard LKB  
-**Submission Deadline:** 21 June 2025  
-**Email:** bernardlkb@ukm.edu.my
-
----
 
