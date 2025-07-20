@@ -28,11 +28,11 @@ As a data scientist, one of my core roles is to uncover hidden stories in raw da
 
 ## 📊 Visualizations Included
 
-- Pie Chart
+- Scatter Plot
 - Bar Plot
 - Box Plot
 - Line Chart
-- Heatmap
+- Regression
 
 Each visualization is paired with a clear, real-world insight and explanation.
 
